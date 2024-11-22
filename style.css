@@ -1,0 +1,12 @@
+body {
+    text-align: right;
+}
+body.black {
+    background-color: black;
+}
+button {
+    height: 40px;
+    cursor: pointer;
+    background-color: darkgrey;
+    
+}
